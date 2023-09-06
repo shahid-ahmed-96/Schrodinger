@@ -9,7 +9,7 @@ The zone-boundary phonon mode K3 involves the displacement of atoms, leading to 
 ## Potential Energy
 - **Paraelectric Phase:** The phonon mode vibrates within a harmonic potential.
 - The Schrödinger equation for a quantum system with the given potential energy V is:
--$\[-\frac{{\hbar^2}}{{2m}} \nabla^2 \Psi + V \Psi = E $\Psi$]$
+-$\[-\frac{{$\hbar$^2}}{{2m}} $\nabla$^2 $\Psi$ + V $\Psi$ = E $\Psi$]$
 
 Where:
 - $\hbar$ is the reduced Planck constant.
