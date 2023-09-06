@@ -9,7 +9,7 @@ The zone-boundary phonon mode K3 involves the displacement of atoms, leading to 
 ## Potential Energy
 - **Paraelectric Phase:** The phonon mode vibrates within a harmonic potential.
 - The Schrödinger equation for a quantum system with the given potential energy V is:
-- $\ -frac{hbar^2}{2m} \Nabla^2 \Psi + V \Psi = E \Psi $
+- $\ -\frac{hbar^2}{2m} \Nabla^2 \Psi + V \Psi = E \Psi $
 
 Where:
 - $\hbar$ is the reduced Planck constant.
@@ -23,5 +23,5 @@ This equation describes the behavior of a quantum particle in the presence of a 
 
 
 ## Objectives
-1. Solve the Schrödinger wave equation to find the ground state energy (E0).
-2. Determine the energies of the five immediate energy levels above E0.
+1. Solve the Schrödinger wave equation to find the ground state energy $E_0$.
+2. Determine the energies of the five immediate energy levels above $E_0$.
