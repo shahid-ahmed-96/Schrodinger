@@ -11,7 +11,8 @@ This project focuses on the analysis of a zone-boundary phonon mode, denoted as 
 
 Where:
 - $\hbar$ is the reduced Planck constant.
-- m is the mass of the particle.
+- m is the mass of the particle = 266.10 amu
+- x is chosen between -1 to 1.
 - $\nabla^2$ is the Laplacian operator, representing the second spatial derivative with respect to position.
 - V is the potential energy operator defined as $\ V = K_0 + K_2 x^2$. ($K_0$ = 0 eV and $K_2$ = 1.4494 eV/ $Å^2$)
 - E is the total energy of the quantum system.
@@ -23,4 +24,4 @@ This equation describes the behavior of a quantum particle in the presence of a 
 ## Objectives
 1. Solve the Schrödinger wave equation to find the ground state energy $E_0$.
 2. Determine the energies of the five immediate energy levels above $E_0$.
-3. Determine the eigen functions of the time independent Schrodinger Equation.
+3. Determine the eigen vectors of the time independent Schrodinger Equation.
