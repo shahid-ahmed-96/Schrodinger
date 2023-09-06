@@ -13,7 +13,7 @@ Where:
 - $\hbar$ is the reduced Planck constant.
 - m is the mass of the particle.
 - $\nabla^2$ is the Laplacian operator, representing the second spatial derivative with respect to position.
-- V is the potential energy operator defined as $\ V = K_0 + K_2x^2$. ($K_0$=0 eV and $K_2$= 1.4494 eV/ $Å^2$)
+- V is the potential energy operator defined as $\ V = K_0 + K_2x^2$. ($K_0$ = 0 eV and $K_2$ = 1.4494 eV/$Å^ 2$)
 - E is the total energy of the quantum system.
 - $\Psi$ is the wavefunction of the system, representing the quantum state of the particle.
 
