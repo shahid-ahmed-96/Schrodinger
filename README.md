@@ -23,4 +23,4 @@ This equation describes the behavior of a quantum particle in the presence of a 
 ## Objectives
 1. Solve the Schrödinger wave equation to find the ground state energy $E_0$.
 2. Determine the energies of the five immediate energy levels above $E_0$.
-3. Determine the eigen values of the time independent Schrodinger Equation.
+3. Determine the eigen functions of the time independent Schrodinger Equation.
